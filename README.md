@@ -9,3 +9,6 @@
 - git clone https://github.com/AdliXSec/AdminFinder
 - cd AdminFinder
 - python adfind.py
+
+## Warning
+- Dont Recode

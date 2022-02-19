@@ -406,6 +406,7 @@
 /vmailadmin/
 /vorod/
 /vorud/
+/admin/
 /webadmin.asp
 /webadmin.html
 /webadmin.php
