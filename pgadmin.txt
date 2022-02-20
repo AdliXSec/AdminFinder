@@ -413,6 +413,7 @@
 /webadmin.php
 /WebAdmin/
 /webadmin/
+/adminarea/
 /webmaster/
 /wizmysqladmin/
 /wp-admin/
