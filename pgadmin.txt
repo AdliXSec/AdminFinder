@@ -418,6 +418,7 @@
 /wp-admin/
 /wp-login.php
 /wp-login/
+/wp-admin/
 /xlogin/
 /yonetici.asp
 /yonetici.html
